@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482873909 source:c:\users\ek-19\desktop\metineditoru\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
